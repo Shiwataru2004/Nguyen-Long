@@ -72,5 +72,11 @@
 ######Lệnh truy vấn đề:
 ![image](https://github.com/user-attachments/assets/6ebffe5c-21e0-4dcc-b5b4-46bd481d5022)
 
+######Diagram mô tả:
+![image](https://github.com/user-attachments/assets/303ecaa9-612b-4d20-ac4a-0026b0eae6b2)
+![image](https://github.com/user-attachments/assets/11bebc7b-3cf2-42f9-b952-3eac6e1266e4)
+
+
+
 
 
